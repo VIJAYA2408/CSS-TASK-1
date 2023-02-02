@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'one';
+    src: url(fonts/DarlingtonDemo-z8xjG.ttf);
+}
+h1{
+    font-family: one ;
+}
+
+@font-face {
+    font-family: 'two';
+    src: url(fonts/AirtravelerspersonaluseBdit-gxgyE.otf);
+}
+h2{
+    font-family: two;
+}
+
+@font-face {
+    font-family: 'three';
+    src: url(fonts/Dirtyboy-BxYl.ttf);
+}
+h3{
+    font-family: three;
+}
+
+@font-face {
+    font-family: 'four';
+    src: url(fonts/LucySaidOkPersonalUseItalic-OV9ee.ttf);
+}
+h4{
+    font-family: four;
+}
+
+@font-face {
+    font-family: 'five';
+    src: url(fonts/NatureBeautyPersonalUse-9Y2DK.ttf);
+}
+h5{
+    font-family: five;
+}
+
+@font-face {
+    font-family: 'six';
+    src: url(fonts/PinkbluepersonaluseBold-BW2qx.otf);
+}
+h6{
+    font-family: six;
+}
